@@ -17,9 +17,11 @@ FridaBlaze is a versatile and efficient automation tool designed to simplify Fri
 
 ✅ Parallel Script Search: Leverages multi-threading to quickly fetch and display multiple scripts from CodeShare.
 
+
 **⚠️ Important Note:**
 
 **To ensure FridaBlaze works properly, Frida must be installed on both the mobile device and the system with the same version. Mismatched versions may lead to connection failures, inconsistent behavior, or script execution errors.**
+
 
 **🛠️ Use Case Scenarios:**
 
