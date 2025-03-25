@@ -20,7 +20,7 @@ FridaBlaze is a versatile and efficient automation tool designed to simplify Fri
 
 **⚠️ Important Note:**
 
-**To ensure FridaBlaze works properly, Frida must be installed on both the mobile device and the system with the same version. Mismatched versions may lead to connection failures, inconsistent behavior, or script execution errors.**
+To ensure FridaBlaze works properly, Frida must be installed on both the mobile device and the system with the same version. Mismatched versions may lead to connection failures, inconsistent behavior, or script execution errors.
 
 
 
