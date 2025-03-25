@@ -1,7 +1,7 @@
 # About
 **🔥 FridaBlaze – Automated Frida Hooking & Script Execution Tool**
 
-FridaBlaze is a versatile and efficient automation tool designed to simplify Frida script execution on Mobile applications. It offers a streamlined interface with multiple execution modes, making it ideal for mobile app security testing and dynamic analysis.
+FridaBlaze is a versatile and efficient automation tool designed to simplify Frida script execution on Mobile applications. It offers a streamlined interface with multiple execution modes, making it ideal for mobile app security testing and dynamic analysis. FridaBlaze boosts productivity, enhances testing capabilities, and makes Frida-based security assessments more efficient and seamless. 🚀🔥
 
 **🚀 Key Features:**
 
@@ -23,7 +23,7 @@ FridaBlaze is a versatile and efficient automation tool designed to simplify Fri
 **To ensure FridaBlaze works properly, Frida must be installed on both the mobile device and the system with the same version. Mismatched versions may lead to connection failures, inconsistent behavior, or script execution errors.**
 
 
-FridaBlaze boosts productivity, enhances testing capabilities, and makes Frida-based security assessments more efficient and seamless. 🚀🔥
+
 
 # Installation
 ``` 
